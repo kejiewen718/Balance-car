@@ -1,0 +1,17 @@
+out_file/
+user/DebugConfig/
+user/Listings/
+*.axf
+*.hex
+*.htm
+*.build_log.htm
+*.crf
+*.d
+*.o
+*.dep
+*.lnp
+*.bak
+*.iex
+*.uvguix.*
+Thumbs.db
+*.tmp
